@@ -1,0 +1,2 @@
+Wed Jan 30 12:52:01 2019
+This is a print string from python. If you see this message, your .bat file is ready
